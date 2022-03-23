@@ -2,6 +2,8 @@
 
 Command line interface (CLI) para gerar visualizações 3D com PyQt5 e OpenGL.
 
+![gui](./doc/img/window.jpg)
+
 ## Funcionalidades
 
 ### Navegação
